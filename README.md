@@ -11,18 +11,16 @@ trying to bring our ~~babu~~ waifus through this one
      $ pip install -r requirements.txt  
 </div>  
 
-### explanation example:
+### with playsound:
 ```py
+def dota():      
+    playsound.playsound('./Src/kato.mp3')
+
 elif "dota" in input: 
-        dota()
+        dota() #kato speak
         assistant_speaks("Opening Dota") 
         os.startfile('yours\\Steam\\Dota 2.url') 
         return    
-```  
-
-```py
-assistant_speaks(playsound('./Src/kato.mp3')) 
-            return
 ```  
 ### further:
 - [Speech_Recognition](https://pypi.org/project/SpeechRecognition/)  
