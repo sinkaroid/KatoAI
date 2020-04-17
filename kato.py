@@ -12,7 +12,7 @@ def hai(): # outer function
 def dota(): # outer function      
     playsound.playsound('./Src/lina.mp3')    
 
-def lewd(): # outer function      
+def lewd():       
     playsound.playsound('./Src/lewd.mp3')    
 num = 1
 def assistant_speaks(output): 
