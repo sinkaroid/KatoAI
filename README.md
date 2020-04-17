@@ -5,11 +5,11 @@
 a smol speech recognition might help ur workspace  
 not yet an best personal assistant  
 trying to bring our ~~babu~~ waifus through this one
-</div>  
 
 ----
 
      $ pip install -r requirements.txt  
+</div>  
 
 ### explanation example:
 ```py
