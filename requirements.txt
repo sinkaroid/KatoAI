@@ -1,5 +1,5 @@
 gTTS==2.0.4
-SpeechRecognition
+SpeechRecognition==3.8.1
 selenium
 wolframalpha
 playsound
