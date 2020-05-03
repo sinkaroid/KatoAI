@@ -1,6 +1,6 @@
 gTTS==2.0.4
 SpeechRecognition==3.8.1
-selenium
+selenium==3.141.0
 wolframalpha
 playsound
 pyaudio
