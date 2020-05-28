@@ -1,11 +1,11 @@
 <div align="center">
-   <img width="200" src="https://i.imgur.com/fQXqPbk.png" alt="logo"></br><h2>MegumiAi</h2>
+   <img width="250" src="https://i.imgur.com/fQXqPbk.png" alt="logo"></br><h2>MegumiAi</h2>
 
-[![](https://img.shields.io/badge/codename-MegumiAi-darkviolet)](https://github.com/sinkaroid/KatoAI) [![](https://img.shields.io/pypi/v/pyaudio)](https://pypi.org/project/PyAudio/) [![](https://img.shields.io/circleci/build/github/sinkaroid/MegumiAi)](https://circleci.com/gh/sinkaroid/MegumiAi) [![CodeFactor](https://www.codefactor.io/repository/github/sinkaroid/MegumiAi/badge)](https://www.codefactor.io/repository/github/sinkaroid/MegumiAi)  
+[![](https://img.shields.io/badge/codename-MegumiAi-darkviolet)](https://github.com/sinkaroid/MegumiAi/commits/master) [![](https://img.shields.io/pypi/v/pyaudio)](https://pypi.org/project/PyAudio/) [![](https://img.shields.io/pypi/pyversions/SpeechRecognition)](https://pypi.org/project/SpeechRecognition/) [![](https://img.shields.io/circleci/build/github/sinkaroid/MegumiAi)](https://circleci.com/gh/sinkaroid/MegumiAi) [![CodeFactor](https://www.codefactor.io/repository/github/sinkaroid/MegumiAi/badge)](https://www.codefactor.io/repository/github/sinkaroid/MegumiAi)  
 
 an beta SpeechRecognition might help ur workspace  
 not yet an callable as personal assistant  
-this is beta test and always trying to more improve our smol~~babu~~ waifus with this implementation.
+this is beta test and always trying to more improve our smol~~babu~~ waifu with this implementation.
 
 </div>  
 
