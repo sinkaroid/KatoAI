@@ -1,5 +1,5 @@
 #!C:\Python36\python.exe
-# importing speech recognition package from google api 
+# importing speech recognition from google api 
 
 import speech_recognition as sr  
 import playsound # to play saved mp3 file 
